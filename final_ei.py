@@ -56,9 +56,8 @@ em_yr['year']=em_yr['year'].astype(int)
 
 merge1 = vax.merge(em_yr, how='outer', on=['iso3', 'year']).sort_values(by=['iso3'])
 
-merge2 = em_mon.merge(em_sex, how='outer', on=['country', 'iso3', 'year'])
+merge2 = merge1.merge(em_sex, how='outer', on=['country', 'iso3', 'year']).sort_values(by=['iso3'])
 
-merged = merge1.merge(merge2, how='outer', on=['country', 'iso3', 'year'])
 
 
 
