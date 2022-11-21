@@ -10,7 +10,7 @@ import os
 import pandas as pd
 
 #read files
-base_path = '/Users/erika_ishizuka/Desktop/python_final_project'
+base_path = '/Users/erika_ishizuka/Desktop/Github/PYTHON2-FINAL-PROJECT'
 vax_file = 'who_vax.csv'
 em_yr_file = 'excess_yr.csv'
 em_sex_file = 'excess_sex_age.csv'
