@@ -1,0 +1,1071 @@
+ISO3,VACCINE_NAME,PRODUCT_NAME,COMPANY_NAME,AUTHORIZATION_DATE,START_DATE,END_DATE,COMMENT,DATA_SOURCE
+SHN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+GRL,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,OWID
+FRO,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,OWID
+FRO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+BIH,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+BIH,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+JEY,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,OWID
+JEY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+JEY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+GGY,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,OWID
+GGY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+GGY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+BIH,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,OWID
+GIB,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+GIB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+IMN,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,OWID
+IMN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+IMN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+FLK,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+RUS,SRCVB - EpiVacCorona,EpiVacCorona,State Research Center of Virology & Biotechnology,,,,,OWID
+TUR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+TUR,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,OWID
+TUR,Turkovac,,,,,,,OWID
+UZB,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,,4/28/21,,,REPORTING
+CHN,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,3/17/21,3/17/21,,,REPORTING
+TKM,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,,2/24/21,,,REPORTING
+CHN,Shenzhen - LV-SMENP-DC,LV-SMENP-DC,Shenzhen GenoImmune Medical Institute,5/14/21,6/1/21,,,REPORTING
+AUT,Valneva - VLA2001,VLA2001,Valneva,,8/24/22,,,REPORTING
+DEU,Valneva - VLA2001,VLA2001,Valneva,,9/14/22,,,REPORTING
+VEN,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,,,,,REPORTING
+CUB,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,,,,,REPORTING
+IRN,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,,,,,REPORTING
+NIC,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,,10/25/21,,,REPORTING
+CHN,IMB - Covidful,Covidful,Insitute of Medical Biology,6/9/21,6/9/21,,,REPORTING
+AZE,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,5/19/21,,,REPORTING
+KGZ,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,4/21/21,,,REPORTING
+SVK,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,1/20/21,,,REPORTING
+ARM,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,6/16/21,,,REPORTING
+OMN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/14/21,12/29/20,,,REPORTING
+MDV,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/30/21,,,,REPORTING
+ATG,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,7/24/21,8/16/21,,,REPORTING
+TJK,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,8/18/21,,,REPORTING
+LAO,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/3/21,2/9/21,,,REPORTING
+MNG,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/6/21,3/19/21,,,REPORTING
+PHL,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,3/19/21,5/4/21,,,REPORTING
+HUN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,2/10/21,,,REPORTING
+BLR,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,2/3/21,,,REPORTING
+PRY,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,12/22/20,2/22/21,,,REPORTING
+ARG,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,12/23/20,12/29/20,,,REPORTING
+BOL,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,1/30/21,,,REPORTING
+IRN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/27/21,2/9/21,,,REPORTING
+PSE,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/25/21,2/2/21,,,REPORTING
+TUN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/11/21,3/13/21,,,REPORTING
+PAK,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/20/21,2/3/21,,,REPORTING
+SMR,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,2/24/21,,,REPORTING
+MNE,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,2/24/21,,,REPORTING
+GAB,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+RWA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,3/31/21,,,,REPORTING
+SYC,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+ZWE,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+VEN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/1/21,2/22/21,,,REPORTING
+IRQ,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,12/29/20,3/2/21,,,REPORTING
+MEX,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/9/21,2/24/21,,,REPORTING
+JOR,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,12/13/20,1/13/21,,,REPORTING
+DJI,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/22/21,3/15/21,,,REPORTING
+LBN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,12/16/20,2/14/21,,,REPORTING
+KAZ,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,4/7/21,,,REPORTING
+MKD,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,3/10/21,,,REPORTING
+VCT,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/30/21,2/1/21,,,REPORTING
+DZA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/10/21,1/30/21,,,REPORTING
+AFG,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+NIC,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/2/21,3/3/21,,,REPORTING
+SDN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+YEM,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+ARE,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+EGY,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,12/30/20,1/24/21,,,REPORTING
+BHR,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,11/3/20,11/4/20,,,REPORTING
+MAR,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+LKA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,3/4/21,5/6/21,,,REPORTING
+GUY,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,4/2/21,4/2/21,,,REPORTING
+KWT,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+QAT,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+SAU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+SOM,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+SRB,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,1/6/21,,,REPORTING
+TKM,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,2/24/21,,,REPORTING
+COG,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,3/3/21,3/23/21,,,REPORTING
+GIN,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,1/27/21,3/5/21,,,REPORTING
+VNM,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,3/23/21,8/1/21,,,REPORTING
+MYS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,,,,REPORTING
+GHA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/9/21,3/2/21,,,REPORTING
+CIV,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,3/1/21,,,REPORTING
+SYR,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/3/21,4/1/21,,,REPORTING
+HND,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/19/21,4/22/21,,,REPORTING
+IND,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,4/12/21,5/14/21,,,REPORTING
+NPL,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,4/20/21,,,,REPORTING
+LBY,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,2/24/21,4/11/21,,,REPORTING
+BGD,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,4/27/21,,,,REPORTING
+MDA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,5/5/21,,,REPORTING
+ALB,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,3/24/21,,,REPORTING
+UZB,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,4/28/21,,,REPORTING
+GTM,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,,5/17/21,,,REPORTING
+KAZ,RIBSP - QazVac,QazVac,Research Institute for Biological Safety Problems,,4/28/21,,,REPORTING
+TKM,RIBSP - QazVac,QazVac,Research Institute for Biological Safety Problems,,2/24/21,,,REPORTING
+KGZ,RIBSP - QazVac,QazVac,Research Institute for Biological Safety Problems,,9/29/21,,,REPORTING
+TCD,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),5/7/21,6/4/21,,,REPORTING
+KGZ,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/31/21,,,REPORTING
+VUT,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/2/21,6/15/21,,,REPORTING
+VNM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/3/21,7/10/21,,,REPORTING
+MMR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/12/21,6/1/21,,,REPORTING
+CIV,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/10/21,,,,REPORTING
+KIR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/29/21,9/3/21,,,REPORTING
+BDI,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),9/29/21,10/18/21,,,REPORTING
+LBY,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/24/21,4/11/21,,,REPORTING
+ARM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,8/18/21,,,REPORTING
+BTN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),3/16/21,7/20/21,,,REPORTING
+TUN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),1/11/21,3/13/21,,,REPORTING
+LSO,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+MDG,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),8/5/21,,,,REPORTING
+RWA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),7/30/21,,,,REPORTING
+TZA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),8/8/21,,,,REPORTING
+ZMB,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+SGP,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,8/30/21,,,REPORTING
+SLV,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/3/21,6/22/21,,,REPORTING
+BFA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),9/20/21,,,,REPORTING
+CPV,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+KEN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+GMB,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/10/21,,,REPORTING
+LBN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12/16/20,2/14/21,,,REPORTING
+DJI,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/22/21,3/15/21,,,REPORTING
+HUN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2/24/21,,,REPORTING
+MNE,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/10/21,,,REPORTING
+KHM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/4/21,2/10/21,,,REPORTING
+LAO,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/16/21,11/25/20,,,REPORTING
+VEN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),3/12/21,3/8/21,,,REPORTING
+PER,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),1/26/21,2/9/21,,,REPORTING
+SYC,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,1/10/21,,,REPORTING
+GNQ,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/1/21,2/12/21,,,REPORTING
+IRQ,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12/29/20,3/2/21,,,REPORTING
+IRN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),1/27/21,2/9/21,,,REPORTING
+BHR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),11/3/20,11/4/20,,,REPORTING
+PAK,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),1/20/21,2/3/21,,,REPORTING
+MAR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),1/6/21,1/28/21,,,REPORTING
+PHL,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/7/21,8/30/21,,,REPORTING
+JAM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),11/12/21,12/13/21,,,REPORTING
+MYS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),7/16/21,,,,REPORTING
+PRT,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,12/23/20,,,REPORTING
+JOR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12/13/20,1/13/21,,,REPORTING
+EGY,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12/30/20,1/24/21,,,REPORTING
+ARE,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+PSE,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),1/25/21,2/2/21,,,REPORTING
+KWT,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12/13/20,12/28/20,,,REPORTING
+MNG,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/9/21,3/10/21,,,REPORTING
+BOL,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,5/2/21,,,REPORTING
+DMA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/11/21,,,REPORTING
+PRY,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12/30/20,3/15/21,,,REPORTING
+SAU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+YEM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+MOZ,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),5/18/21,,,,REPORTING
+ARG,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/21/21,3/2/21,,,REPORTING
+GUY,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/25/21,3/2/21,,,REPORTING
+MDV,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),3/17/21,3/22/21,,,REPORTING
+SLB,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),3/12/21,5/21/21,,,REPORTING
+MDA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/24/21,,,REPORTING
+LKA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),5/8/21,4/5/21,,,REPORTING
+NPL,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/16/21,4/7/21,,,REPORTING
+OMN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+QAT,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+GIN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/12/21,3/5/21,,,REPORTING
+MUS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),3/18/21,,,,REPORTING
+CHN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),7/22/20,7/22/20,,,REPORTING
+AFG,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/23/21,2/22/21,,,REPORTING
+PNG,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),5/25/21,6/28/21,,,REPORTING
+BRN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/3/21,4/3/21,,,REPORTING
+MRT,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/26/21,,,REPORTING
+ZWE,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+NAM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/19/21,,,REPORTING
+COM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/1/21,4/10/21,,,REPORTING
+COG,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),3/3/21,3/23/21,,,REPORTING
+NER,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/23/21,3/29/21,,,REPORTING
+ETH,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),3/5/21,3/13/21,,,REPORTING
+SYR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/3/21,4/1/21,,,REPORTING
+SRB,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,1/20/21,,,REPORTING
+DZA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/10/21,,,,REPORTING
+TKM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2/24/21,,,REPORTING
+GAB,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/23/21,,,REPORTING
+KAZ,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,5/5/21,,,REPORTING
+IDN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),4/29/21,5/18/21,,,REPORTING
+GNB,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,4/2/21,,,REPORTING
+SLE,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/15/21,,,REPORTING
+SEN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/23/21,2/23/21,,,REPORTING
+CMR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),4/1/21,4/12/21,,,REPORTING
+SOM,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/22/21,3/16/21,,,REPORTING
+SDN,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2/20/21,3/9/21,,,REPORTING
+BGD,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),4/29/21,5/25/21,,,REPORTING
+MKD,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,4/21/21,,,REPORTING
+GEO,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,5/5/21,,,REPORTING
+BLR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,3/24/21,,,REPORTING
+THA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),5/28/21,6/25/21,,,REPORTING
+ATG,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+BRB,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,6/30/21,,,REPORTING
+SUR,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),6/28/21,7/10/21,,,REPORTING
+TTO,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,,,,REPORTING
+BLZ,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),5/17/21,5/18/21,,,REPORTING
+IND,Zydus - ZyCov-D,ZyCov-D,Zydus Cadila,8/20/21,,,,REPORTING
+IND,Biological E - Corbevax,Corbevax,Biological E,,3/16/22,,,REPORTING
+NIC,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,,10/25/21,,,REPORTING
+VEN,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,,,,,REPORTING
+VNM,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,9/17/21,10/17/21,,,REPORTING
+CUB,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,,,,,REPORTING
+ARM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,6/16/21,,,REPORTING
+SLB,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,5/26/21,8/27/21,,,REPORTING
+PCN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,5/17/21,5/17/21,,,REPORTING
+BGD,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,6/23/21,,,,REPORTING
+NPL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,6/30/21,,,,REPORTING
+KHM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,7/15/21,7/25/21,,,REPORTING
+NIC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/15/21,8/4/21,,,REPORTING
+SLV,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/30/20,2/17/21,,,REPORTING
+UKR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,4/28/21,,,REPORTING
+PSE,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/25/21,2/2/21,,,REPORTING
+LKA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,7/9/21,,,,REPORTING
+LAO,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,8/4/21,,,REPORTING
+KGZ,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,7/14/21,,,REPORTING
+CYP,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+BEL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+PRT,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,12/30/20,,,REPORTING
+NLD,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,1/6/21,,,REPORTING
+POL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,1/6/21,,,REPORTING
+CZE,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/3/21,,,REPORTING
+SWE,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+HUN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+ROU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/17/21,,,REPORTING
+LTU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+ESP,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+AUT,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+LVA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+ITA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,1/13/21,,,REPORTING
+SVN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+FRA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/3/21,,,REPORTING
+ISL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+BGR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/3/21,,,REPORTING
+LUX,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+IRL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,1/13/21,,,REPORTING
+EST,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/17/21,,,REPORTING
+DEU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/10/21,,,REPORTING
+HRV,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,1/13/21,,,REPORTING
+FIN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,12/30/20,,,REPORTING
+EGY,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/30/20,1/24/21,,,REPORTING
+MAR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/6/21,1/28/21,,,REPORTING
+PHL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/28/21,3/7/21,,,REPORTING
+DNK,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,12/30/20,,,REPORTING
+SVK,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,1/13/21,,,REPORTING
+GRC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,12/23/20,,,REPORTING
+VGB,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/11/21,,,REPORTING
+MSR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/8/21,,,REPORTING
+AIA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/1/20,2/5/21,,,REPORTING
+OMN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/14/21,12/29/20,,,REPORTING
+IRN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/27/21,2/9/21,,,REPORTING
+JOR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/13/20,1/13/21,,,REPORTING
+MLT,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,12/30/20,,,REPORTING
+CAN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+BEN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+ISR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,10/20/21,,,REPORTING
+BOL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/22/21,,,REPORTING
+VCT,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+VNM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/1/21,3/8/21,,,REPORTING
+FJI,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/22/21,3/7/21,,,REPORTING
+LBN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/16/20,2/14/21,,,REPORTING
+KWT,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/13/20,12/28/20,,,REPORTING
+TUN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/11/21,3/13/21,,,REPORTING
+SAU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/10/20,1/6/21,,,REPORTING
+DJI,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/22/21,3/15/21,,,REPORTING
+IRQ,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/29/20,3/2/21,,,REPORTING
+LBY,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/24/21,4/11/21,,,REPORTING
+JPN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,5/21/21,8/21/21,,,REPORTING
+MDA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/3/21,,,REPORTING
+MEX,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/4/21,2/15/21,,,REPORTING
+PNG,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,3/18/21,3/30/21,,,REPORTING
+MNG,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/10/21,3/19/21,,,REPORTING
+PRY,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/30/20,3/23/21,,,REPORTING
+GBR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/8/21,,,REPORTING
+BLZ,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/15/21,4/7/21,,,REPORTING
+AFG,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/23/21,2/22/21,,,REPORTING
+ARE,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+QAT,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+GEO,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/17/21,,,REPORTING
+ALB,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/10/21,,,REPORTING
+BRN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/22/21,4/3/21,,,REPORTING
+MYS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/15/21,5/5/21,,,REPORTING
+SYR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/3/21,4/1/21,,,REPORTING
+YEM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/27/21,4/20/21,,,REPORTING
+MCO,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,4/27/22,,,REPORTING
+XKX,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/31/21,,,REPORTING
+STP,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/15/21,,,REPORTING
+HND,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/15/21,3/15/21,,,REPORTING
+SXM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+URY,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/11/21,4/17/21,,,REPORTING
+ECU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/22/21,3/19/21,,,REPORTING
+PAK,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/20/21,2/3/21,,,REPORTING
+SOM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/22/21,3/16/21,,,REPORTING
+SDN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/20/21,3/9/21,,,REPORTING
+ATG,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/1/21,3/1/21,,,REPORTING
+GTM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,3/11/21,3/15/21,,,REPORTING
+BMU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,5/7/21,,,REPORTING
+CUW,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+BHS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/14/21,,,REPORTING
+KNA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+ARG,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12/20/21,3/30/21,,,REPORTING
+DMA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/25/21,4/7/21,,,REPORTING
+SUR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,5/10/21,5/26/21,,,REPORTING
+LCA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+TTO,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,4/7/21,,,REPORTING
+DOM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+NRU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,3/2/21,4/9/21,,,REPORTING
+MNE,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/31/21,,,REPORTING
+NOR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,1/6/21,,,REPORTING
+MKD,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/31/21,,,REPORTING
+COL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/23/21,3/29/21,,,REPORTING
+GUY,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+VUT,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,5/10/21,6/2/21,,,REPORTING
+WSM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/23/21,4/18/21,,,REPORTING
+NZL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,7/22/21,11/26/21,,,REPORTING
+TON,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/22/21,4/14/21,,,REPORTING
+SGP,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+KIR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,3/12/21,5/26/21,,,REPORTING
+BRA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/17/21,1/18/21,,,REPORTING
+BRB,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,4/8/21,,,REPORTING
+AUS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/15/21,2/21/21,,,REPORTING
+KOR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/9/21,2/26/21,,,REPORTING
+FSM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+TUV,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/23/21,4/13/21,,,REPORTING
+PER,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,4/12/21,4/21/21,,,REPORTING
+SRB,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/24/21,,,REPORTING
+TKM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,2/24/21,,,REPORTING
+TJK,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,4/14/21,,,REPORTING
+CRI,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/26/21,4/19/21,,,REPORTING
+JAM,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/15/21,3/10/21,,,REPORTING
+AND,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,3/3/21,,,REPORTING
+AZE,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,5/5/21,,,REPORTING
+GLP,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,,,,,REPORTING
+IDN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/21/21,3/23/21,,,REPORTING
+THA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/20/21,3/16/21,,,REPORTING
+TLS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/23/21,4/7/21,,,REPORTING
+BTN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,6/17/21,,,,REPORTING
+MDV,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,6/20/21,7/27/21,,,REPORTING
+PAN,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,3/2/21,4/22/21,,,REPORTING
+GRD,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,2/12/21,2/15/21,,,REPORTING
+CHL,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,1/27/21,4/27/21,,,REPORTING
+BHR,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,11/3/20,11/4/20,,,REPORTING
+CHL,CanSino - Convidecia,Convidecia,CanSino Biologicals,4/7/21,6/3/21,,,REPORTING
+MEX,CanSino - Convidecia,Convidecia,CanSino Biologicals,2/8/21,3/28/21,,,REPORTING
+CHN,CanSino - Convidecia,Convidecia,CanSino Biologicals,7/22/20,7/22/20,,,REPORTING
+MYS,CanSino - Convidecia,Convidecia,CanSino Biologicals,6/15/21,,,,REPORTING
+IRQ,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+JOR,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+EGY,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+IRN,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+ECU,CanSino - Convidecia,Convidecia,CanSino Biologicals,6/14/21,8/2/21,,,REPORTING
+ARG,CanSino - Convidecia,Convidecia,CanSino Biologicals,,9/8/21,,,REPORTING
+ARE,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+YEM,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+PAK,CanSino - Convidecia,Convidecia,CanSino Biologicals,1/20/21,2/3/21,,,REPORTING
+AFG,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+BHR,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+DJI,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+QAT,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+SAU,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+SOM,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+SDN,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+SYR,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+TUN,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+KWT,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+LBN,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+LBY,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+MAR,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+OMN,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+PSE,CanSino - Convidecia,Convidecia,CanSino Biologicals,,,,,REPORTING
+BLR,Chumakov - Covi-Vac,Covi-Vac,Chumakov,,1/12/22,,,REPORTING
+MKD,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,4/21/21,,,REPORTING
+CHN,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),7/22/20,7/22/20,,,REPORTING
+ARM,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,3/9/22,,,REPORTING
+CHE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+PAK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/20/21,2/3/21,,,REPORTING
+MTQ,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+BWA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/25/21,3/26/21,,,REPORTING
+AZE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,6/9/21,,,REPORTING
+HND,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,6/21/21,,,REPORTING
+SUR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,8/20/21,8/28/21,,,REPORTING
+ARG,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,9/16/21,,,REPORTING
+KNA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,9/1/21,9/1/21,,,REPORTING
+LCA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+GTM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,8/22/21,,,REPORTING
+MAR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/6/21,1/28/21,,,REPORTING
+GRD,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,8/23/21,,,REPORTING
+GUY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,8/24/21,,,REPORTING
+DJI,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/22/21,3/15/21,,,REPORTING
+ATG,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,8/12/21,8/24/21,,,REPORTING
+BHS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,8/12/21,,,REPORTING
+BLZ,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/31/21,8/21/21,,,REPORTING
+BRB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,8/19/21,,,REPORTING
+DMA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+MKD,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2/17/21,,,REPORTING
+VCT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+EGY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/30/20,1/24/21,,,REPORTING
+IDN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,7/14/21,8/23/21,,,REPORTING
+THA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,6/24/21,8/6/21,,,REPORTING
+PLW,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,7/26/21,,,REPORTING
+POL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+HUN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+BGR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+LUX,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+MLT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+CZE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+UKR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,4/14/21,,,REPORTING
+CYP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+SWE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+LTU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+ESP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+FRA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+GRC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+ISR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/16/20,,,REPORTING
+BEL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+ROU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/27/21,,,REPORTING
+PRT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+IRL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+EST,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+ALB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/13/21,,,REPORTING
+NLD,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/6/21,,,REPORTING
+ISL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+ITA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+LVA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+DNK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/16/20,,,REPORTING
+HRV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+SVK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+DEU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+FIN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+AUT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/30/20,,,REPORTING
+LBN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/16/20,2/14/21,,,REPORTING
+PHL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/14/21,5/12/21,,,REPORTING
+MYS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/8/21,2/24/21,,,REPORTING
+MNG,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/10/21,3/26/21,,,REPORTING
+JPN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/14/21,2/17/21,,,REPORTING
+SVN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+TUN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/11/21,3/13/21,,,REPORTING
+BHR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11/3/20,11/4/20,,,REPORTING
+ARE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+PSE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/25/21,2/2/21,,,REPORTING
+SAU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/10/20,1/6/21,,,REPORTING
+JOR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/13/20,1/13/21,,,REPORTING
+CYM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/2/20,1/15/21,,,REPORTING
+COL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/5/21,2/17/21,,,REPORTING
+ABW,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2/17/21,,,REPORTING
+OMN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/14/21,12/29/20,,,REPORTING
+QAT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+KWT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/13/20,12/28/20,,,REPORTING
+PAN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/28/20,1/20/21,,,REPORTING
+CHL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/16/20,12/21/20,,,REPORTING
+BMU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/2/20,1/11/21,,,REPORTING
+MEX,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,12/24/20,,,REPORTING
+CRI,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/15/20,12/24/20,,,REPORTING
+USA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,12/14/20,,,REPORTING
+KGZ,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,11/3/21,,,REPORTING
+AIA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,9/6/21,,,REPORTING
+XKX,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,5/5/21,,,REPORTING
+TCA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/11/21,,,REPORTING
+ECU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/17/21,1/20/21,,,REPORTING
+CAN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/9/20,12/14/20,,,REPORTING
+SWZ,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+TZA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,8/24/21,,,,REPORTING
+UGA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+ZAF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+TON,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,10/13/21,10/21/21,,,REPORTING
+TLS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,8/27/21,10/27/21,,,REPORTING
+BEN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+CIV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/15/21,,,,REPORTING
+CMR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,8/19/21,,,,REPORTING
+GAB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+KEN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+NAM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,7/9/21,,,,REPORTING
+SMR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,3/3/21,,,REPORTING
+GUF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/13/21,,,REPORTING
+JAM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,8/16/21,8/21/21,,,REPORTING
+UZB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,9/15/21,,,REPORTING
+TJK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,10/6/21,,,REPORTING
+NIC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/31/20,10/13/21,,,REPORTING
+LBY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/24/21,4/11/21,,,REPORTING
+IRQ,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/29/20,3/2/21,,,REPORTING
+CUW,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2/24/21,,,REPORTING
+FSM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,8/24/21,,,REPORTING
+MHL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,10/1/21,,,REPORTING
+LIE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/6/21,,,REPORTING
+NPL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,6/30/21,11/14/21,,,REPORTING
+KHM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,8/2/21,1/14/22,,,REPORTING
+SLB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,10/15/21,12/16/21,,,REPORTING
+WSM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,10/25/21,,,REPORTING
+ARM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2/16/22,,,REPORTING
+IRN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+AFG,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+SLV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/17/21,3/23/21,,,REPORTING
+BES,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2/22/21,,,REPORTING
+GBR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/21/20,,,REPORTING
+URY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/21/21,3/12/21,,,REPORTING
+KAZ,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,11/10/21,,,REPORTING
+YEM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+SXM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2/22/21,,,REPORTING
+PER,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/1/21,3/8/21,,,REPORTING
+PRI,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,,,,REPORTING
+CPV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/19/21,3/18/21,,,REPORTING
+SDN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+MDA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,3/24/21,,,REPORTING
+BGD,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,3/8/21,6/21/21,,,REPORTING
+MDV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,3/14/21,4/13/21,,,REPORTING
+BTN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,3/8/21,7/20/21,,,REPORTING
+SOM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/22/21,3/16/21,,,REPORTING
+SYR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/3/21,4/1/21,,,REPORTING
+NZL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/3/21,2/19/21,,,REPORTING
+GUM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,1/4/21,,,REPORTING
+LAO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,5/7/21,6/15/21,,,REPORTING
+BRN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+GEO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,3/31/21,,,REPORTING
+NOR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+ASM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,12/21/20,,,REPORTING
+MNP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/11/20,12/19/20,,,REPORTING
+AUS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/25/21,2/21/21,,,REPORTING
+PYF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/29/20,1/18/21,,,REPORTING
+SGP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/14/20,12/30/20,,,REPORTING
+NCL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12/29/20,1/20/21,,,REPORTING
+GLP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/8/21,,,REPORTING
+SRB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,12/23/20,,,REPORTING
+BRA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/23/21,5/3/21,,,REPORTING
+RWA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/19/21,3/5/21,,,REPORTING
+GIN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/27/21,3/5/21,,,REPORTING
+KOR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,3/4/21,2/27/21,,,REPORTING
+NIU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,6/8/21,,,REPORTING
+TKL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/3/21,7/20/21,,,REPORTING
+AND,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,1/20/21,,,REPORTING
+BOL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,4/29/21,4/30/21,,,REPORTING
+MNE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,5/5/21,,,REPORTING
+CHN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,1/25/21,3/6/21,,,REPORTING
+VNM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,6/12/21,7/1/21,,,REPORTING
+LKA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,5/8/21,7/7/21,,,REPORTING
+PRY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,7/12/21,,,REPORTING
+TTO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,10/12/21,,,REPORTING
+MCO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,6/30/21,,,REPORTING
+COK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2/3/21,5/17/21,,,REPORTING
+CHE,Moderna - Spikevax,Spikevax,Moderna,,12/23/20,,,REPORTING
+PRY,Moderna - Spikevax,Spikevax,Moderna,12/29/20,6/9/21,,,REPORTING
+GLP,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+BWA,Moderna - Spikevax,Spikevax,Moderna,4/16/21,3/26/21,,,REPORTING
+JOR,Moderna - Spikevax,Spikevax,Moderna,12/13/20,1/13/21,,,REPORTING
+BHR,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+TUN,Moderna - Spikevax,Spikevax,Moderna,1/11/21,3/13/21,,,REPORTING
+SUR,Moderna - Spikevax,Spikevax,Moderna,7/14/21,7/27/21,,,REPORTING
+TJK,Moderna - Spikevax,Spikevax,Moderna,,7/28/21,,,REPORTING
+UZB,Moderna - Spikevax,Spikevax,Moderna,,7/28/21,,,REPORTING
+ARG,Moderna - Spikevax,Spikevax,Moderna,7/23/21,8/2/21,,,REPORTING
+IND,Moderna - Spikevax,Spikevax,Moderna,6/29/21,,,,REPORTING
+COL,Moderna - Spikevax,Spikevax,Moderna,6/25/21,7/27/21,,,REPORTING
+MEX,Moderna - Spikevax,Spikevax,Moderna,8/17/21,8/25/21,,,REPORTING
+HRV,Moderna - Spikevax,Spikevax,Moderna,,12/30/20,,,REPORTING
+IRL,Moderna - Spikevax,Spikevax,Moderna,,12/30/20,,,REPORTING
+ROU,Moderna - Spikevax,Spikevax,Moderna,,2/3/21,,,REPORTING
+CZE,Moderna - Spikevax,Spikevax,Moderna,,12/30/20,,,REPORTING
+RWA,Moderna - Spikevax,Spikevax,Moderna,7/29/21,,,,REPORTING
+GUY,Moderna - Spikevax,Spikevax,Moderna,,7/3/21,,,REPORTING
+DNK,Moderna - Spikevax,Spikevax,Moderna,,12/16/20,,,REPORTING
+FIN,Moderna - Spikevax,Spikevax,Moderna,,12/23/20,,,REPORTING
+SVN,Moderna - Spikevax,Spikevax,Moderna,,1/20/21,,,REPORTING
+HUN,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+LVA,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+CYP,Moderna - Spikevax,Spikevax,Moderna,,1/20/21,,,REPORTING
+DEU,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+POL,Moderna - Spikevax,Spikevax,Moderna,,12/30/20,,,REPORTING
+ITA,Moderna - Spikevax,Spikevax,Moderna,,1/6/21,,,REPORTING
+NLD,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+LTU,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+BGR,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+ISL,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+LUX,Moderna - Spikevax,Spikevax,Moderna,,1/20/21,,,REPORTING
+FRA,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+ESP,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+SWE,Moderna - Spikevax,Spikevax,Moderna,,2/17/21,,,REPORTING
+PRT,Moderna - Spikevax,Spikevax,Moderna,,12/23/20,,,REPORTING
+PSE,Moderna - Spikevax,Spikevax,Moderna,1/25/21,2/2/21,,,REPORTING
+EST,Moderna - Spikevax,Spikevax,Moderna,,1/20/21,,,REPORTING
+AUT,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+SVK,Moderna - Spikevax,Spikevax,Moderna,,12/30/20,,,REPORTING
+GRC,Moderna - Spikevax,Spikevax,Moderna,,12/23/20,,,REPORTING
+BEL,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+UGA,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+DMA,Moderna - Spikevax,Spikevax,Moderna,,2/10/22,,,REPORTING
+MKD,Moderna - Spikevax,Spikevax,Moderna,,8/10/22,,,REPORTING
+GRD,Moderna - Spikevax,Spikevax,Moderna,,3/23/22,,,REPORTING
+CAN,Moderna - Spikevax,Spikevax,Moderna,12/23/20,,,,REPORTING
+USA,Moderna - Spikevax,Spikevax,Moderna,12/18/20,12/21/20,,,REPORTING
+LIE,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+MLT,Moderna - Spikevax,Spikevax,Moderna,,1/13/21,,,REPORTING
+GUF,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+ARM,Moderna - Spikevax,Spikevax,Moderna,,10/6/21,,,REPORTING
+CPV,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+KEN,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+LBY,Moderna - Spikevax,Spikevax,Moderna,2/24/21,4/11/21,,,REPORTING
+HND,Moderna - Spikevax,Spikevax,Moderna,2/17/21,2/22/21,,,REPORTING
+GTM,Moderna - Spikevax,Spikevax,Moderna,2/25/21,2/25/21,,,REPORTING
+JPN,Moderna - Spikevax,Spikevax,Moderna,5/21/21,5/24/21,,,REPORTING
+PLW,Moderna - Spikevax,Spikevax,Moderna,12/18/20,1/3/21,,,REPORTING
+SAU,Moderna - Spikevax,Spikevax,Moderna,12/10/20,1/6/21,,,REPORTING
+CRI,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+LCA,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+CHL,Moderna - Spikevax,Spikevax,Moderna,2/2/22,2/2/22,,,REPORTING
+AFG,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+DJI,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+EGY,Moderna - Spikevax,Spikevax,Moderna,12/30/20,1/24/21,,,REPORTING
+NPL,Moderna - Spikevax,Spikevax,Moderna,9/15/21,12/19/21,,,REPORTING
+KGZ,Moderna - Spikevax,Spikevax,Moderna,,12/15/21,,,REPORTING
+BOL,Moderna - Spikevax,Spikevax,Moderna,,1/10/22,,,REPORTING
+AUS,Moderna - Spikevax,Spikevax,Moderna,8/9/21,9/20/21,,,REPORTING
+KHM,Moderna - Spikevax,Spikevax,Moderna,8/2/21,12/16/21,,,REPORTING
+MYS,Moderna - Spikevax,Spikevax,Moderna,8/5/21,,,,REPORTING
+MCO,Moderna - Spikevax,Spikevax,Moderna,,3/2/22,,,REPORTING
+QAT,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+ISR,Moderna - Spikevax,Spikevax,Moderna,,3/3/21,,,REPORTING
+GBR,Moderna - Spikevax,Spikevax,Moderna,,1/11/21,,,REPORTING
+SRB,Moderna - Spikevax,Spikevax,Moderna,,11/10/21,,,REPORTING
+MDA,Moderna - Spikevax,Spikevax,Moderna,,12/8/21,,,REPORTING
+SOM,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+SDN,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+SYR,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+ARE,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+YEM,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+PER,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+CUW,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+IRN,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+IRQ,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+LBN,Moderna - Spikevax,Spikevax,Moderna,12/16/20,2/14/21,,,REPORTING
+MAR,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+OMN,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+PHL,Moderna - Spikevax,Spikevax,Moderna,5/5/21,7/1/21,,,REPORTING
+MNG,Moderna - Spikevax,Spikevax,Moderna,1/10/21,,,,REPORTING
+NOR,Moderna - Spikevax,Spikevax,Moderna,,1/6/21,,,REPORTING
+PRI,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+SXM,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+BES,Moderna - Spikevax,Spikevax,Moderna,,2/22/21,,,REPORTING
+MNP,Moderna - Spikevax,Spikevax,Moderna,12/18/20,1/12/21,,,REPORTING
+COG,Moderna - Spikevax,Spikevax,Moderna,3/3/21,3/23/21,,,REPORTING
+SGP,Moderna - Spikevax,Spikevax,Moderna,2/3/21,3/17/21,,,REPORTING
+WLF,Moderna - Spikevax,Spikevax,Moderna,1/6/21,3/19/21,,,REPORTING
+KOR,Moderna - Spikevax,Spikevax,Moderna,5/21/21,6/1/21,,,REPORTING
+BRN,Moderna - Spikevax,Spikevax,Moderna,4/9/21,6/21/21,,,REPORTING
+AND,Moderna - Spikevax,Spikevax,Moderna,,7/14/21,,,REPORTING
+UKR,Moderna - Spikevax,Spikevax,Moderna,,7/21/21,,,REPORTING
+MHL,Moderna - Spikevax,Spikevax,Moderna,12/18/20,12/29/20,,,REPORTING
+FSM,Moderna - Spikevax,Spikevax,Moderna,12/18/20,1/13/21,,,REPORTING
+ASM,Moderna - Spikevax,Spikevax,Moderna,12/18/20,12/23/20,,,REPORTING
+GUM,Moderna - Spikevax,Spikevax,Moderna,12/18/20,1/29/21,,,REPORTING
+FJI,Moderna - Spikevax,Spikevax,Moderna,9/1/21,,,,REPORTING
+VNM,Moderna - Spikevax,Spikevax,Moderna,6/28/21,7/1/21,,,REPORTING
+HTI,Moderna - Spikevax,Spikevax,Moderna,,,,,REPORTING
+SLV,Moderna - Spikevax,Spikevax,Moderna,6/3/21,8/2/21,,,REPORTING
+BTN,Moderna - Spikevax,Spikevax,Moderna,6/22/21,7/20/21,,,REPORTING
+IDN,Moderna - Spikevax,Spikevax,Moderna,7/1/21,7/25/21,,,REPORTING
+KWT,Moderna - Spikevax,Spikevax,Moderna,12/13/20,12/28/20,,,REPORTING
+PAK,Moderna - Spikevax,Spikevax,Moderna,1/20/21,2/3/21,,,REPORTING
+BGD,Moderna - Spikevax,Spikevax,Moderna,6/27/21,7/13/21,,,REPORTING
+LKA,Moderna - Spikevax,Spikevax,Moderna,6/28/21,7/18/21,,,REPORTING
+MDV,Moderna - Spikevax,Spikevax,Moderna,6/6/21,,,,REPORTING
+THA,Moderna - Spikevax,Spikevax,Moderna,5/13/21,11/8/21,,,REPORTING
+TKM,SRCVB - EpiVacCorona,EpiVacCorona,State Research Center of Virology & Biotechnology,,2/24/21,,,REPORTING
+PAK,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+CAF,Bharat - Covaxin,Covaxin,Bharat Biotech,2/26/21,3/19/21,,,REPORTING
+ZWE,Bharat - Covaxin,Covaxin,Bharat Biotech,,2/18/21,,,REPORTING
+PRY,Bharat - Covaxin,Covaxin,Bharat Biotech,1/3/21,4/10/21,,,REPORTING
+COM,Bharat - Covaxin,Covaxin,Bharat Biotech,2/1/21,4/10/21,,,REPORTING
+MUS,Bharat - Covaxin,Covaxin,Bharat Biotech,3/18/21,,,,REPORTING
+BWA,Bharat - Covaxin,Covaxin,Bharat Biotech,4/16/21,,,,REPORTING
+IND,Bharat - Covaxin,Covaxin,Bharat Biotech,1/3/21,1/16/21,,,REPORTING
+IRN,Bharat - Covaxin,Covaxin,Bharat Biotech,1/27/21,2/9/21,,,REPORTING
+NPL,Bharat - Covaxin,Covaxin,Bharat Biotech,3/19/21,,,,REPORTING
+ETH,Bharat - Covaxin,Covaxin,Bharat Biotech,3/3/21,3/13/21,,,REPORTING
+AFG,Bharat - Covaxin,Covaxin,Bharat Biotech,2/23/21,2/22/21,,,REPORTING
+BHR,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+DJI,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+EGY,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+SDN,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+SYR,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+TUN,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+ARE,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+YEM,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+PRT,Bharat - Covaxin,Covaxin,Bharat Biotech,,1/6/21,,,REPORTING
+MAR,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+OMN,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+PSE,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+QAT,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+SAU,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+SOM,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+PHL,Bharat - Covaxin,Covaxin,Bharat Biotech,4/19/21,,,,REPORTING
+IRQ,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+JOR,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+KWT,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+LBN,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+LBY,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+MDA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,5/26/21,,,REPORTING
+MLT,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,2/24/21,,,REPORTING
+DNK,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,1/6/21,,,REPORTING
+MEX,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,5/27/21,6/16/21,,,REPORTING
+BRA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,6/23/21,,,REPORTING
+SVK,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,3/3/21,,,REPORTING
+BLZ,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,9/1/21,,,REPORTING
+BHS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,8/19/21,,,REPORTING
+KHM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/21/21,8/1/21,,,REPORTING
+EGY,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,12/30/20,1/24/21,,,REPORTING
+PNG,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/21/21,8/28/21,,,REPORTING
+TTO,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,10/23/21,,,REPORTING
+YEM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/27/21,4/20/21,,,REPORTING
+ATG,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,8/27/21,9/6/21,,,REPORTING
+GRD,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,11/12/21,,,REPORTING
+SDN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/20/21,3/9/21,,,REPORTING
+SOM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/22/21,3/16/21,,,REPORTING
+JAM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/13/21,7/14/21,,,REPORTING
+VGB,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+IND,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,8/5/21,,,,REPORTING
+ZMB,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+NIC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/25/21,10/8/21,,,REPORTING
+NCL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+IDN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,9/7/21,10/28/21,,,REPORTING
+SEN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/20/21,,,,REPORTING
+CHE,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,12/23/20,,,REPORTING
+NAM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,8/2/21,,,,REPORTING
+RWA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/11/21,,,,REPORTING
+SSD,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+SWZ,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+TZA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/20/21,7/28/21,,,REPORTING
+UGA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+ETH,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+KEN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+LSO,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/7/21,,,,REPORTING
+MDG,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/21/21,,,,REPORTING
+MOZ,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/26/21,,,,REPORTING
+MWI,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+CAN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+BEN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+BFA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/20/21,,,,REPORTING
+BWA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,3/26/21,,,,REPORTING
+CIV,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,1/15/21,,,,REPORTING
+CMR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/22/21,,,,REPORTING
+BRB,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,10/15/21,,,REPORTING
+LIE,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,10/13/21,,,REPORTING
+GUY,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+LCA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+USA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,3/1/21,,,REPORTING
+JOR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,12/13/20,1/13/21,,,REPORTING
+THA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,3/25/21,,,,REPORTING
+MAR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,1/6/21,1/28/21,,,REPORTING
+GLP,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+AUS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/25/21,,,,REPORTING
+MYS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/15/21,,,,REPORTING
+VUT,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,12/22/21,1/28/22,,,REPORTING
+OMN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+PAK,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+ARE,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+MCO,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/27/22,,,REPORTING
+BHR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,11/3/20,11/4/20,,,REPORTING
+LBY,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/24/21,4/11/21,,,REPORTING
+BRN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+PLW,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/27/21,3/21/21,,,REPORTING
+PRI,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+IRN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+IRQ,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+LBN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,12/16/20,2/14/21,,,REPORTING
+NLD,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/21/21,,,REPORTING
+LUX,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/14/21,,,REPORTING
+ZAF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,2/17/21,,,REPORTING
+NZL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,7/7/21,,,,REPORTING
+PHL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,4/19/21,7/19/21,,,REPORTING
+KOR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,4/7/21,6/10/21,,,REPORTING
+BGR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,5/12/21,,,REPORTING
+EST,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/28/21,,,REPORTING
+ISL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/28/21,,,REPORTING
+NOR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,3/3/21,,,REPORTING
+POL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,1/6/21,,,REPORTING
+HUN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,5/5/21,,,REPORTING
+FIN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,12/23/20,,,REPORTING
+ABW,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+GIN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,3/22/21,3/5/21,,,REPORTING
+MNP,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/27/21,3/19/21,,,REPORTING
+IRL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,1/6/21,,,REPORTING
+BEL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/28/21,,,REPORTING
+LVA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/7/21,,,REPORTING
+SVN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/28/21,,,REPORTING
+ROU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,5/5/21,,,REPORTING
+PYF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,3/25/21,5/3/21,,,REPORTING
+SAU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,12/10/20,1/6/21,,,REPORTING
+UKR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,5/19/21,,,REPORTING
+DEU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/21/21,,,REPORTING
+FRA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/28/21,,,REPORTING
+GRC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,1/6/21,,,REPORTING
+CYP,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/28/21,,,REPORTING
+ESP,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/21/21,,,REPORTING
+LTU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/21/21,,,REPORTING
+FSM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/27/21,4/9/21,,,REPORTING
+PRT,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,12/30/20,,,REPORTING
+AUT,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,3/17/21,,,REPORTING
+ITA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,1/6/21,,,REPORTING
+HRV,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,2/3/21,,,REPORTING
+CZE,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,3/3/21,,,REPORTING
+BOL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,10/7/21,,,REPORTING
+HTI,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+HND,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,4/22/21,,,REPORTING
+ASM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/27/21,3/16/21,,,REPORTING
+GUM,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/27/21,3/15/21,,,REPORTING
+MHL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/27/21,4/8/21,,,REPORTING
+BGD,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/15/21,,,,REPORTING
+MDV,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/6/21,,,,REPORTING
+NPL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/30/21,7/19/21,,,REPORTING
+AFG,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/23/21,2/22/21,,,REPORTING
+SYR,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/3/21,4/1/21,,,REPORTING
+LAO,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,6/23/21,7/25/21,,,REPORTING
+DJI,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,2/22/21,3/15/21,,,REPORTING
+KWT,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,12/13/20,12/28/20,,,REPORTING
+PSE,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,1/25/21,2/2/21,,,REPORTING
+QAT,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,,,,,REPORTING
+TUN,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,1/11/21,3/13/21,,,REPORTING
+COL,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,3/25/21,6/23/21,,,REPORTING
+GEO,Sinovac - CoronaVac,Coronavac,Sinovac,,5/26/21,,,REPORTING
+DJI,Sinovac - CoronaVac,Coronavac,Sinovac,2/22/21,3/15/21,,,REPORTING
+BWA,Sinovac - CoronaVac,Coronavac,Sinovac,4/8/21,3/26/21,,,REPORTING
+TLS,Sinovac - CoronaVac,Coronavac,Sinovac,1/6/21,6/14/21,,,REPORTING
+ARM,Sinovac - CoronaVac,Coronavac,Sinovac,,6/16/21,,,REPORTING
+KAZ,Sinovac - CoronaVac,Coronavac,Sinovac,,5/5/21,,,REPORTING
+THA,Sinovac - CoronaVac,Coronavac,Sinovac,2/22/21,2/28/21,,,REPORTING
+AZE,Sinovac - CoronaVac,Coronavac,Sinovac,,1/20/21,,,REPORTING
+VEN,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+CHL,Sinovac - CoronaVac,Coronavac,Sinovac,1/20/21,2/3/21,,,REPORTING
+BRA,Sinovac - CoronaVac,Coronavac,Sinovac,1/17/21,1/17/21,,,REPORTING
+IDN,Sinovac - CoronaVac,Coronavac,Sinovac,1/11/21,1/13/21,,,REPORTING
+PHL,Sinovac - CoronaVac,Coronavac,Sinovac,2/22/21,3/1/21,,,REPORTING
+COL,Sinovac - CoronaVac,Coronavac,Sinovac,2/4/21,2/22/21,,,REPORTING
+ECU,Sinovac - CoronaVac,Coronavac,Sinovac,3/6/21,3/8/21,,,REPORTING
+YEM,Sinovac - CoronaVac,Coronavac,Sinovac,2/27/21,4/20/21,,,REPORTING
+DZA,Sinovac - CoronaVac,Coronavac,Sinovac,3/31/21,,,,REPORTING
+RWA,Sinovac - CoronaVac,Coronavac,Sinovac,7/17/21,,,,REPORTING
+UGA,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+UZB,Sinovac - CoronaVac,Coronavac,Sinovac,,10/20/21,,,REPORTING
+PRT,Sinovac - CoronaVac,Coronavac,Sinovac,,12/23/20,,,REPORTING
+AFG,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+BHR,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+IRN,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+URY,Sinovac - CoronaVac,Coronavac,Sinovac,2/18/21,2/27/21,,,REPORTING
+MYS,Sinovac - CoronaVac,Coronavac,Sinovac,3/2/21,3/18/21,,,REPORTING
+ARE,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+SLV,Sinovac - CoronaVac,Coronavac,Sinovac,3/9/21,3/28/21,,,REPORTING
+PRY,Sinovac - CoronaVac,Coronavac,Sinovac,2/6/21,3/10/21,,,REPORTING
+DOM,Sinovac - CoronaVac,Coronavac,Sinovac,12/20/20,2/24/21,,,REPORTING
+MEX,Sinovac - CoronaVac,Coronavac,Sinovac,2/9/21,2/22/21,,,REPORTING
+HUN,Sinovac - CoronaVac,Coronavac,Sinovac,,2/15/21,,,REPORTING
+JOR,Sinovac - CoronaVac,Coronavac,Sinovac,12/13/20,1/13/21,,,REPORTING
+KWT,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+LBN,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+MAR,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+QAT,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+SAU,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+UKR,Sinovac - CoronaVac,Coronavac,Sinovac,,4/14/21,,,REPORTING
+BEN,Sinovac - CoronaVac,Coronavac,Sinovac,2/26/21,3/29/21,,,REPORTING
+GNQ,Sinovac - CoronaVac,Coronavac,Sinovac,,2/12/21,,,REPORTING
+KHM,Sinovac - CoronaVac,Coronavac,Sinovac,2/12/21,4/1/21,,,REPORTING
+CHN,Sinovac - CoronaVac,Coronavac,Sinovac,7/22/20,7/22/20,,,REPORTING
+IRQ,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+ALB,Sinovac - CoronaVac,Coronavac,Sinovac,,3/24/21,,,REPORTING
+LBY,Sinovac - CoronaVac,Coronavac,Sinovac,2/24/21,4/11/21,,,REPORTING
+MDV,Sinovac - CoronaVac,Coronavac,Sinovac,3/14/21,,,,REPORTING
+GIN,Sinovac - CoronaVac,Coronavac,Sinovac,4/1/21,3/5/21,,,REPORTING
+ZWE,Sinovac - CoronaVac,Coronavac,Sinovac,,2/18/21,,,REPORTING
+PAK,Sinovac - CoronaVac,Coronavac,Sinovac,1/20/21,2/3/21,,,REPORTING
+LAO,Sinovac - CoronaVac,Coronavac,Sinovac,6/16/21,10/5/21,,,REPORTING
+EGY,Sinovac - CoronaVac,Coronavac,Sinovac,12/30/20,1/24/21,,,REPORTING
+TUN,Sinovac - CoronaVac,Coronavac,Sinovac,1/11/21,3/13/21,,,REPORTING
+SOM,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+SDN,Sinovac - CoronaVac,Coronavac,Sinovac,2/20/21,3/9/21,,,REPORTING
+MDA,Sinovac - CoronaVac,Coronavac,Sinovac,,5/12/21,,,REPORTING
+MKD,Sinovac - CoronaVac,Coronavac,Sinovac,,6/16/21,,,REPORTING
+TJK,Sinovac - CoronaVac,Coronavac,Sinovac,,6/9/21,,,REPORTING
+OMN,Sinovac - CoronaVac,Coronavac,Sinovac,2/14/21,12/29/20,,,REPORTING
+PSE,Sinovac - CoronaVac,Coronavac,Sinovac,1/25/21,2/2/21,,,REPORTING
+BGD,Sinovac - CoronaVac,Coronavac,Sinovac,6/6/21,12/11/21,,,REPORTING
+SYR,Sinovac - CoronaVac,Coronavac,Sinovac,2/3/21,4/1/21,,,REPORTING
+PHL,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+KOR,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+NZL,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+AUS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+MCO,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/30/22,,,REPORTING
+PRT,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,1/20/21,,,REPORTING
+JPN,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+CHE,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,7/20/22,,,REPORTING
+USA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+GLP,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+PRI,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,,,,REPORTING
+ISL,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,8/3/22,,,REPORTING
+LUX,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/2/22,,,REPORTING
+NLD,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/16/22,,,REPORTING
+POL,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,6/9/21,,,REPORTING
+SVK,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/9/22,,,REPORTING
+SVN,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/2/22,,,REPORTING
+SWE,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/9/22,,,REPORTING
+FRA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,2/23/22,,,REPORTING
+DEU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,2/23/22,,,REPORTING
+GRC,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,10/13/21,,,REPORTING
+IRL,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/16/22,,,REPORTING
+ITA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/2/22,,,REPORTING
+LVA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/2/22,,,REPORTING
+IDN,Novavax-NUVAXOVID,NUVAXOVID,Novavax,11/1/21,12/6/21,,,REPORTING
+AUT,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,2/23/22,,,REPORTING
+HRV,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/2/22,,,REPORTING
+CYP,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/9/22,,,REPORTING
+CZE,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/2/22,,,REPORTING
+EST,Novavax-NUVAXOVID,NUVAXOVID,Novavax,,3/9/22,,,REPORTING
+HND,SII - Covishield,Covishield,Serum Institute of India,3/4/21,5/22/21,,,REPORTING
+BFA,SII - Covishield,Covishield,Serum Institute of India,5/21/21,6/2/21,,,REPORTING
+FJI,SII - Covishield,Covishield,Serum Institute of India,,4/6/21,,,REPORTING
+TJK,SII - Covishield,Covishield,Serum Institute of India,,3/24/21,,,REPORTING
+SLV,SII - Covishield,Covishield,Serum Institute of India,1/25/21,4/12/21,,,REPORTING
+ALB,SII - Covishield,Covishield,Serum Institute of India,,4/21/21,,,REPORTING
+SYC,SII - Covishield,Covishield,Serum Institute of India,,1/10/21,,,REPORTING
+AFG,SII - Covishield,Covishield,Serum Institute of India,2/23/21,2/22/21,,,REPORTING
+SDN,SII - Covishield,Covishield,Serum Institute of India,2/20/21,3/9/21,,,REPORTING
+PAK,SII - Covishield,Covishield,Serum Institute of India,1/20/21,2/3/21,,,REPORTING
+MNG,SII - Covishield,Covishield,Serum Institute of India,1/10/21,2/23/21,,,REPORTING
+PNG,SII - Covishield,Covishield,Serum Institute of India,3/2/21,5/5/21,,,REPORTING
+GHA,SII - Covishield,Covishield,Serum Institute of India,2/12/21,3/2/21,,,REPORTING
+LKA,SII - Covishield,Covishield,Serum Institute of India,1/22/21,1/29/21,,,REPORTING
+MMR,SII - Covishield,Covishield,Serum Institute of India,1/20/21,1/27/21,,,REPORTING
+MDV,SII - Covishield,Covishield,Serum Institute of India,1/29/21,2/1/21,,,REPORTING
+BGD,SII - Covishield,Covishield,Serum Institute of India,1/7/21,1/27/21,,,REPORTING
+IND,SII - Covishield,Covishield,Serum Institute of India,1/3/21,1/16/21,,,REPORTING
+NPL,SII - Covishield,Covishield,Serum Institute of India,1/15/21,1/27/21,,,REPORTING
+BTN,SII - Covishield,Covishield,Serum Institute of India,1/21/21,3/27/21,,,REPORTING
+SYR,SII - Covishield,Covishield,Serum Institute of India,2/3/21,4/1/21,,,REPORTING
+GUY,SII - Covishield,Covishield,Serum Institute of India,,2/11/21,,,REPORTING
+BRB,SII - Covishield,Covishield,Serum Institute of India,,1/8/21,,,REPORTING
+DMA,SII - Covishield,Covishield,Serum Institute of India,2/9/21,2/12/21,,,REPORTING
+DOM,SII - Covishield,Covishield,Serum Institute of India,12/20/20,2/16/21,,,REPORTING
+KEN,SII - Covishield,Covishield,Serum Institute of India,,3/5/21,,,REPORTING
+LSO,SII - Covishield,Covishield,Serum Institute of India,2/25/21,3/10/21,,,REPORTING
+ETH,SII - Covishield,Covishield,Serum Institute of India,3/3/21,3/13/21,,,REPORTING
+JAM,SII - Covishield,Covishield,Serum Institute of India,2/15/21,3/10/21,,,REPORTING
+BHS,SII - Covishield,Covishield,Serum Institute of India,3/5/21,3/14/21,,,REPORTING
+SLE,SII - Covishield,Covishield,Serum Institute of India,3/4/21,3/15/21,,,REPORTING
+NGA,SII - Covishield,Covishield,Serum Institute of India,3/4/21,3/5/21,,,REPORTING
+MUS,SII - Covishield,Covishield,Serum Institute of India,1/21/21,1/26/21,,,REPORTING
+CIV,SII - Covishield,Covishield,Serum Institute of India,2/13/21,3/1/21,,,REPORTING
+RWA,SII - Covishield,Covishield,Serum Institute of India,2/23/21,3/5/21,,,REPORTING
+TGO,SII - Covishield,Covishield,Serum Institute of India,,3/10/21,,,REPORTING
+MWI,SII - Covishield,Covishield,Serum Institute of India,,3/11/21,,,REPORTING
+DJI,SII - Covishield,Covishield,Serum Institute of India,2/22/21,3/15/21,,,REPORTING
+LAO,SII - Covishield,Covishield,Serum Institute of India,2/22/21,4/2/21,,,REPORTING
+KHM,SII - Covishield,Covishield,Serum Institute of India,2/12/21,3/4/21,,,REPORTING
+AGO,SII - Covishield,Covishield,Serum Institute of India,,3/10/21,,,REPORTING
+GMB,SII - Covishield,Covishield,Serum Institute of India,2/12/21,3/10/21,,,REPORTING
+UGA,SII - Covishield,Covishield,Serum Institute of India,,3/10/21,,,REPORTING
+CAN,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+BHR,SII - Covishield,Covishield,Serum Institute of India,,12/25/20,,,REPORTING
+OMN,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+ARE,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+VCT,SII - Covishield,Covishield,Serum Institute of India,2/11/21,2/14/21,,,REPORTING
+SOM,SII - Covishield,Covishield,Serum Institute of India,2/22/21,3/16/21,,,REPORTING
+LCA,SII - Covishield,Covishield,Serum Institute of India,2/15/21,2/17/21,,,REPORTING
+GRD,SII - Covishield,Covishield,Serum Institute of India,2/12/21,2/15/21,,,REPORTING
+TTO,SII - Covishield,Covishield,Serum Institute of India,2/15/21,2/17/21,,,REPORTING
+CPV,SII - Covishield,Covishield,Serum Institute of India,2/25/21,3/18/21,,,REPORTING
+TLS,SII - Covishield,Covishield,Serum Institute of India,2/23/21,4/7/21,,,REPORTING
+YEM,SII - Covishield,Covishield,Serum Institute of India,2/27/21,4/20/21,,,REPORTING
+BLZ,SII - Covishield,Covishield,Serum Institute of India,2/15/21,3/1/21,,,REPORTING
+SUR,SII - Covishield,Covishield,Serum Institute of India,2/15/21,2/23/21,,,REPORTING
+ATG,SII - Covishield,Covishield,Serum Institute of India,4/5/21,7/12/21,,,REPORTING
+GTM,SII - Covishield,Covishield,Serum Institute of India,2/18/21,3/3/21,,,REPORTING
+ARG,SII - Covishield,Covishield,Serum Institute of India,12/30/20,2/21/21,,,REPORTING
+BRA,SII - Covishield,Covishield,Serum Institute of India,1/17/21,1/17/21,,,REPORTING
+NER,SII - Covishield,Covishield,Serum Institute of India,3/4/21,3/29/21,,,REPORTING
+SEN,SII - Covishield,Covishield,Serum Institute of India,2/16/21,2/23/21,,,REPORTING
+SLB,SII - Covishield,Covishield,Serum Institute of India,2/22/21,3/23/21,,,REPORTING
+BOL,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+SWZ,SII - Covishield,Covishield,Serum Institute of India,,3/19/21,,,REPORTING
+KNA,SII - Covishield,Covishield,Serum Institute of India,1/29/21,2/22/21,,,REPORTING
+STP,SII - Covishield,Covishield,Serum Institute of India,2/21/21,3/15/21,,,REPORTING
+CMR,SII - Covishield,Covishield,Serum Institute of India,3/4/21,4/12/21,,,REPORTING
+GIN,SII - Covishield,Covishield,Serum Institute of India,2/18/21,3/5/21,,,REPORTING
+CAF,SII - Covishield,Covishield,Serum Institute of India,2/26/21,3/19/21,,,REPORTING
+COD,SII - Covishield,Covishield,Serum Institute of India,2/26/21,4/19/21,,,REPORTING
+COG,SII - Covishield,Covishield,Serum Institute of India,3/3/21,3/23/21,,,REPORTING
+BEN,SII - Covishield,Covishield,Serum Institute of India,2/24/21,3/29/21,,,REPORTING
+GNB,SII - Covishield,Covishield,Serum Institute of India,,4/2/21,,,REPORTING
+BWA,SII - Covishield,Covishield,Serum Institute of India,2/26/21,3/26/21,,,REPORTING
+SSD,SII - Covishield,Covishield,Serum Institute of India,3/1/21,4/6/21,,,REPORTING
+MLI,SII - Covishield,Covishield,Serum Institute of India,2/19/21,3/31/21,,,REPORTING
+LBR,SII - Covishield,Covishield,Serum Institute of India,3/15/21,4/1/21,,,REPORTING
+ZMB,SII - Covishield,Covishield,Serum Institute of India,2/28/21,4/14/21,,,REPORTING
+MRT,SII - Covishield,Covishield,Serum Institute of India,,3/26/21,,,REPORTING
+NRU,SII - Covishield,Covishield,Serum Institute of India,3/2/21,6/1/21,,,REPORTING
+THA,SII - Covishield,Covishield,Serum Institute of India,1/21/21,3/16/21,,,REPORTING
+DZA,SII - Covishield,Covishield,Serum Institute of India,2/1/21,,,,REPORTING
+NIC,SII - Covishield,Covishield,Serum Institute of India,2/15/21,4/6/21,,,REPORTING
+MDG,SII - Covishield,Covishield,Serum Institute of India,3/26/21,5/10/21,,,REPORTING
+UZB,SII - Covishield,Covishield,Serum Institute of India,,4/28/21,,,REPORTING
+UKR,SII - Covishield,Covishield,Serum Institute of India,,2/24/21,,,REPORTING
+COM,SII - Covishield,Covishield,Serum Institute of India,,4/10/21,,,REPORTING
+NAM,SII - Covishield,Covishield,Serum Institute of India,3/5/21,3/19/21,,,REPORTING
+MOZ,SII - Covishield,Covishield,Serum Institute of India,3/4/21,3/8/21,,,REPORTING
+NIC,Finlay - Soberana Plus,Soberana Plus,Instituto Finlay de Vacunas,,10/26/21,,,REPORTING
+CUB,Finlay - Soberana Plus,Soberana Plus,Instituto Finlay de Vacunas,,,,,REPORTING
+IRN,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+IRQ,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+JOR,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+KWT,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+LBN,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,12/16/20,2/14/21,,,REPORTING
+LBY,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+NIC,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,10/25/21,,,REPORTING
+DJI,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+EGY,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+BHR,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,11/3/20,11/4/20,,,REPORTING
+PSE,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,1/25/21,2/2/21,,,REPORTING
+SYR,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,2/3/21,4/1/21,,,REPORTING
+LAO,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,10/1/21,9/29/21,,,REPORTING
+VEN,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+PHL,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,8/20/21,8/23/21,,,REPORTING
+ARM,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,2/9/22,,,REPORTING
+AZE,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,3/2/22,,,REPORTING
+BLR,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,10/6/21,,,REPORTING
+AFG,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+SDN,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+TUN,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,1/11/21,3/13/21,,,REPORTING
+ARE,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+YEM,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+VCT,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+UZB,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,12/15/21,,,REPORTING
+MAR,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+OMN,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+PAK,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+QAT,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+SAU,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+SOM,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,,,,,REPORTING
+PRY,Julphar - Hayat-Vax,Hayat-Vax,,12/30/20,5/24/21,,,REPORTING
+PHL,Julphar - Hayat-Vax,Hayat-Vax,,8/11/21,8/25/21,,,REPORTING
+SYC,Julphar - Hayat-Vax,Hayat-Vax,,,,,,REPORTING
+IRN,Shifa - COVIran Barakat,COVIran Barakat,,,,,,REPORTING
+MCO,Novavax - Covavax,Covavax,,,3/30/22,,,REPORTING
+THA,SII - Covovax,Covovax,,4/27/22,,,,REPORTING
+IND,SII - Covovax,Covovax,,,,,,REPORTING
+AUT,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,,,7/28/21,,,REPORTING
+EST,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,,,10/12/22,,,REPORTING
+ITA,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,,,10/5/22,,,REPORTING
+LUX,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,,,9/14/22,,,REPORTING
+PRT,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,,,9/28/22,,,REPORTING
+CHE,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,,,12/30/20,,,REPORTING
+AUT,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,1/6/21,,,REPORTING
+CZE,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,9/14/22,,,REPORTING
+EST,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,9/28/22,,,REPORTING
+GRC,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,9/28/22,,,REPORTING
+HUN,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,9/7/22,,,REPORTING
+ITA,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,9/14/22,,,REPORTING
+LUX,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,9/7/22,,,REPORTING
+PRT,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,12/30/20,,,REPORTING
+CHE,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,,,10/19/22,,,REPORTING
+AUT,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,1/13/21,,,REPORTING
+CZE,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,10/5/22,,,REPORTING
+EST,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,9/28/22,,,REPORTING
+GRC,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,10/5/22,,,REPORTING
+ITA,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,9/28/22,,,REPORTING
+LUX,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,10/12/22,,,REPORTING
+PRT,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,9/28/22,,,REPORTING
+DEU,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,,,9/14/22,,,REPORTING
+DEU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,,,9/7/22,,,REPORTING
