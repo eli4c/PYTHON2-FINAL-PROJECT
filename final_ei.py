@@ -69,7 +69,19 @@ merge_yr_crude = crude_death.merge(em_yr, how='outer', on=['Country', 'year'])
 
 
 
-
+#static plot
+#source: https://www.tutorialspoint.com/python-plot-a-pie-chart-for-pandas-dataframe-with-matplotlib
+#source: https://datatofish.com/pie-chart-matplotlib/
+import matplotlib.pyplot as plt
+vax_count = new_vax['vaccine'].value_counts().to_frame().reset_index().rename(columns={'index': 
+                                                                                       'vaccine type', 
+                                                                                       'vaccine': 'vaccine count'})
+fig3, ax = plt.subplots()
+plt.pie(vax_count['vaccine count'], labels = vax_count['vaccine type'], autopct='%1.1f%%')
+plt.title('Start Date Vaccine Types Distributed in South America')
+plt.axis('equal')
+plt.show()
+fig3.savefig('pie_chart_vax_type.png')
 
 
 
